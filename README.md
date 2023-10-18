@@ -15,9 +15,11 @@ This script converts words into dash case for easy use in URLs and other context
 
 Download the Alfred workflow and click import.
 
+> _dc {query}_
+
 For example:
 
-> _dc hello world_<br>
+> _dc hello world_ <br>
 
 Will convert the input text into dash case. This script is written in PHP and is a quick way to convert words to lowercase and dash case. It's useful for tasks like preparing text for URLs.
 
