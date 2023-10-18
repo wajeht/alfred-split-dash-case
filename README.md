@@ -2,7 +2,7 @@
 <img width="70%" src="https://raw.githubusercontent.com/wajeht/alfred-generate-unique-usernames/main/dist/image.png" />
 </p>
 
-# <p align="center"> Generate Unique Username </p>
+# <p align="center"> Split into Dash Case </p>
 
 <div align="center">
 
@@ -11,18 +11,18 @@
 </div>
 
 <p align="center">
-If you find yourself clicking too many steps into password managers just to grab a random username, this workflow will save you so much time!
+This script converts words into dash case for easy use in URLs and other contexts.
 </p>
 
 # Usage
 
-Download the alfred workflow and click import.
+Download the Alfred workflow and click import.
 
 For example:
 
 > _uid_<br>
 
-Will create a unique username with the combination of `adjective` + `noun` + `verb`. This script was previously written in python2, but MacOS update messed up all the `path`. Now, we are back in php land. Enjoy!
+Will convert the input text into dash case. This script is written in PHP and is a quick way to convert words to lowercase and dash case. It's useful for tasks like preparing text for URLs.
 
 # License
 
